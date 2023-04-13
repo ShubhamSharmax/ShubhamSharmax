@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharmax&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharmax" /> </p>
 
 - 🌱 I’m currently learning **React Js**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **eca.shubhamsharma@gmail.com**
 
