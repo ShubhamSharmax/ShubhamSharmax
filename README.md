@@ -3,12 +3,12 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Shubham Sharma</h1>
-<h3 align="center">A Passionate Computer Science Student From India</h3>
+<h3 align="center">A Passionate Web Developer with Expertise in the MERN Stack</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharmax&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharmax" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next.Js**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **eca.shubhamsharma@gmail.com**
